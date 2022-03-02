@@ -8,5 +8,5 @@ To give someone the ability to plan out there day with ease.
 * JS
 
 ## Website
-
+https://1kingslayer.github.io/workdaysced/
 
